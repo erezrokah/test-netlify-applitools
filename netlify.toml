@@ -1,0 +1,5 @@
+[build]
+  publish = "out"
+
+[[plugins]]
+  package = "netlify-plugin-visual-diff"
