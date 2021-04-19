@@ -4,6 +4,8 @@
 [[plugins]]
   package = "netlify-plugin-visual-diff"
     [[plugins.inputs.browser]]
-	    name = "chrome"
-	    width = 1024
-	    height = 768
+      name = "chrome"
+      width = 1024
+      height = 768
+    [[plugins.inputs]]
+      serverUrl = "https://eyesapi.applitools.com"
