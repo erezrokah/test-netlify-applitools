@@ -3,3 +3,7 @@
 
 [[plugins]]
   package = "netlify-plugin-visual-diff"
+    [[plugins.inputs.browser]]
+	    name = "chrome"
+	    width = 1024
+	    height = 768
