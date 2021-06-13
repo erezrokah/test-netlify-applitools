@@ -1,0 +1,23 @@
+{
+  "name": "test-netlify-applitools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erezrokah/test-netlify-applitools.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erezrokah/test-netlify-applitools/issues"
+  },
+  "homepage": "https://github.com/erezrokah/test-netlify-applitools#readme",
+  "devDependencies": {
+    "netlify-plugin-visual-diff": "^1.2.1"
+  }
+}
