@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/erezrokah/test-netlify-applitools#readme",
   "devDependencies": {
-    "netlify-plugin-visual-diff": "github:erezrokah/netlify-plugin-visual-diff#fix/plugin_paths"
+    "netlify-plugin-visual-diff": "github:erezrokah/netlify-plugin-visual-diff#fix/run_from_plugin_dir"
   }
 }
